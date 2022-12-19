@@ -33,3 +33,40 @@
     <br>
     <img width="467" alt="Screenshot 2022-12-19 at 5 18 39 PM" src="https://user-images.githubusercontent.com/109227471/208419386-38cac62e-8471-4b45-8e24-cb96a1d630f9.png">
 </ul>
+
+<h2>Tools and Technologies used</h2>
+<ul>
+    <li>Python</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>Matplotlib</li>
+    <li>Pandas</li>
+    <li>Tensorflow</li>
+    <li>Keras</li>
+    <li>Flask</li>
+    <li>Numpy</li>
+</ul>
+
+<h3>Output</h2>
+--> Language : English
+<img width="1552" alt="Screenshot 2022-12-19 at 11 17 37 AM" src="https://user-images.githubusercontent.com/109227471/208421590-490eef1a-111d-46ec-9228-34f4341a1879.png">
+<img width="1552" alt="Screenshot 2022-12-19 at 11 17 46 AM" src="https://user-images.githubusercontent.com/109227471/208421610-c7a9591b-6455-40d2-aa93-39ad2ba5dc70.png">
+<img width="1552" alt="Screenshot 2022-12-19 at 11 14 19 AM" src="https://user-images.githubusercontent.com/109227471/208421650-1443afd6-92e8-4e6a-b2d1-cb3d8d49b48f.png">
+
+--> Language : Hindi
+<img width="1552" alt="Screenshot 2022-12-19 at 11 15 59 AM" src="https://user-images.githubusercontent.com/109227471/208421731-077ea051-ac26-43ee-b67a-d94aadfd0cae.png">
+<img width="1552" alt="Screenshot 2022-12-19 at 11 15 08 AM" src="https://user-images.githubusercontent.com/109227471/208421703-d93c529c-7969-45b4-a4a7-9dad16bfaf47.png">
+
+--> Language : Gujarati
+<img width="1552" alt="Screenshot 2022-12-19 at 11 17 30 AM" src="https://user-images.githubusercontent.com/109227471/208421787-a2e339b8-b895-4347-b1b5-aa483ecf5c45.png">
+<img width="1552" alt="Screenshot 2022-12-19 at 11 14 40 AM" src="https://user-images.githubusercontent.com/109227471/208421852-bee9723b-2c35-4b37-b7d1-34db5c5d5551.png">
+
+
+<h2>Conclusion</h2>
+<p>To conclude, this project aims at developing a highly accurate crop recommendation system. For recommendation of the crop this system will use a neural network which is developed from the scratch. The system takes the input from farmers such as Nitrogen , Phosphorus, Potassium, Rainfall, Temperature, Pressure, and pH level. This system will help farmers to harvest proper crops according to the soil composition and atmospheric conditions of their field. This will take farmers one step closer to precision and automated farming. It will help farmers in getting greater yield for their products and by getting a good amount of profit from their crops. Thus it will make farming more efficient by helping farmers in getting better yield for their harvest.</p>
+
+
+
+
+
