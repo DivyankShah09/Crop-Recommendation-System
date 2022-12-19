@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./static/css/glass.css">
+    </link>
+    <link rel="stylesheet" href="./static/css/style.css">
+    </link>
+    <title>Home</title>
+</head>
+
+<body class="bg-index">
+    <div class="translator">
+        <div id="google_translate_element" class="btn"></div>
+    </div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                { pageLanguage: 'en' },
+                'google_translate_element'
+            );
+        }
+    </script>
+
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?
+		cb=googleTranslateElementInit">
+    </script>
+    <h1 class="header">Crop Recommendation System</h1>
+    <div>
+        <div class="box">
+            <div class="form-box">
+                <form action="/sub" method="POST">
+                    <label class="flbl" >Nitrogen : </label>
+                    <input class="inp" type="text" name="nitrogen" required> <br>
+                    <label class="flbl" >Phosphorus : </label>
+                    <input class="inp" type="text" name="phosphorus" required> <br>
+                    <label class="flbl" >Potassium : </label>
+                    <input class="inp" type="text" name="potassium" required> <br>
+                    <label class="flbl" >Temperature : </label>
+                    <input class="inp" type="text" name="temperature" required> <br>
+                    <label class="flbl" >Humidity : </label>
+                    <input class="inp" type="text" name="humidity" required> <br>
+                    <label class="flbl" >pH : </label>
+                    <input class="inp" type="text" name="ph" required> <br>
+                    <label class="flbl" >Rainfall : </label>
+                    <input type="text" class="inp" name="rainfall" required> <br>
+                    <input class="frm-btn" type="submit" value="predict">
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

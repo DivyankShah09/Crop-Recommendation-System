@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="./static/css/glass.css">
+    </link>
+    <link rel="stylesheet" href="./static/css/style.css">
+    </link>
+</head>
+
+<body class="bg-submit">
+    <div class="translator">
+        <p> </p>
+        <div id="google_translate_element" class="btn"></div>
+    </div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                { pageLanguage: 'en' },
+                'google_translate_element'
+            );
+        }
+    </script>
+
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?
+cb=googleTranslateElementInit">
+</script>
+
+    <div class="display">
+        <center><h2 class="heading">Crops you can grow : </h2>
+        <div class="crop">
+            <img id="img" src={{img1}}>
+            <p class="p"><span>{{crop1}}</span></p>
+        </div>
+        <div class="crop">
+            <img id="img" src={{img2}}>
+            <p class="p"><span>{{crop2}}</span></p>
+        </div>
+        <div class="crop">
+            <img id="img" src={{img3}}>
+            <p class="p"><span>{{crop3}}</span></p>
+        </div>
+        <div class="crop">
+            <img id="img" src={{img4}}>
+            <p class="p"><span>{{crop4}}</span></p>
+        </div>
+        <div class="crop">
+            <img id="img" src={{img5}}>
+            <p class="p"><span>{{crop5}}</span></p>
+        </div>
+
+        <div style=" margin-top: 20px;">
+            <center><a href="/" class="frm-btn" style="text-decoration: none; padding: 10px;"> Predict Again </a></center>
+        </div>
+    </center>
+    </div>
+
+</body>
+
+</html>
