@@ -12,3 +12,21 @@
     <li>In this project, we aim to build such a website in which farmers will give
         input on the soil composition of the field and the climatic condition of the area. Based on several parameters, the website will suggest which crop will be most suitable according to the given inputs by the farmer with the help of artificial neural network.</li>
 </ul>
+
+<h2>Features</h2>
+<ul>
+    <li>Interactive User Interface</li>
+    <li>Easily accessible</li>
+    <li>Works on all type of devices</li>
+    <li>Supports multiple language</li>
+    <li>Has high accuracy rate </li>
+    <li>Quick processing</li>
+    <li>Result can be understood easily</li>
+    <li>User Friendly</li>
+    <li>Supports vast variety of crops</li>
+</ul>
+
+<h2>Dataset Used</h2>
+<ul>
+    <li><a href="https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset">Crop Recommendation System</a></li>
+</ul>
