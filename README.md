@@ -30,5 +30,6 @@
 
 <ul>
     <li><a href="https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset">Crop Recommendation System</a> (Custom built)</li>
+    <br>
     <img width="467" alt="Screenshot 2022-12-19 at 5 18 39 PM" src="https://user-images.githubusercontent.com/109227471/208419386-38cac62e-8471-4b45-8e24-cb96a1d630f9.png">
 </ul>
