@@ -64,7 +64,7 @@
 
 
 <h2>Conclusion</h2>
-<p>To conclude, this project aims at developing a highly accurate crop recommendation system. For recommendation of the crop this system will use a neural network which is developed from the scratch. The system takes the input from farmers such as Nitrogen , Phosphorus, Potassium, Rainfall, Temperature, Pressure, and pH level. This system will help farmers to harvest proper crops according to the soil composition and atmospheric conditions of their field. This will take farmers one step closer to precision and automated farming. It will help farmers in getting greater yield for their products and by getting a good amount of profit from their crops. Thus it will make farming more efficient by helping farmers in getting better yield for their harvest.</p>
+<p align="justify">To conclude, this project aims at developing a highly accurate crop recommendation system. For recommendation of the crop this system will use a neural network which is developed from the scratch. The system takes the input from farmers such as Nitrogen , Phosphorus, Potassium, Rainfall, Temperature, Pressure, and pH level. This system will help farmers to harvest proper crops according to the soil composition and atmospheric conditions of their field. This will take farmers one step closer to precision and automated farming. It will help farmers in getting greater yield for their products and by getting a good amount of profit from their crops. Thus it will make farming more efficient by helping farmers in getting better yield for their harvest.</p>
 
 
 
